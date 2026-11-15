@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="./assets/about.svg" alt="About: A decade leading teams through high-stakes incidents where lives and billions of dollars were on the line. Built three SRE programs from the ground up at Honda Aircraft, Duke Energy and a hedge fund: automate the toil, fix the process, blameless post-mortems. 20+ years on AWS, GCP, Kubernetes and Terraform." width="100%" />
+<img src="./assets/about.svg" alt="About: Principal Reliability Engineer and CISSP with a decade leading SRE teams through high-stakes incidents. Four years in AI and LLMs, including Duke Energy\'s in-house AI SRE Risk Platform; took companies from thousands of alerts a month to single digits. Early GitOps and FinOps adopter. K.I.S.S. and teach-to-fish mentorship. 20+ years on AWS, GCP, Kubernetes and Terraform." width="100%" />
 
 <img src="./assets/stack.svg" alt="Stack: AWS, Google Cloud, Kubernetes, Docker, Cloudflare, Linux, Terraform, Helm, Argo CD, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, Datadog, Opsgenie, Go, Python, Bash, TypeScript, JavaScript, React, Node.js, PostgreSQL, MongoDB, Snyk, Zero Trust, SOC2/SOX/FINRA, SAST/DAST, Claude Code, Antigravity, LLM agents and token optimization." width="100%" />
 
