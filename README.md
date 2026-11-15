@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/left-aligned-banner.png" alt="Matthew Evans — Principal Engineer, SRE, DevOps" width="100%" />
   <br /><br />
-  <a href="https://github.com/x86txt"><img src="https://img.shields.io/badge/GitHub-16161D?style=for-the-badge&logo=github&logoColor=C800DF" alt="GitHub" /></a>
+  <a href="https://github.com/srematt"><img src="https://img.shields.io/badge/GitHub-16161D?style=for-the-badge&logo=github&logoColor=C800DF" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/sregeek"><img src="https://img.shields.io/badge/LinkedIn-16161D?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://secunit.io"><img src="https://img.shields.io/badge/secunit.io-16161D?style=for-the-badge&logo=googlechrome&logoColor=C800DF" alt="secunit.io" /></a>
 </div>
@@ -19,14 +19,14 @@
 <img src="./assets/repos.svg" alt="Featured repositories" width="100%" />
 
 <table>
-<tr><td align="center" width="50%"><a href="https://github.com/x86txt/protonvpn-proxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x86txt&repo=protonvpn-proxy&show_owner=false&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&icon_color=E60076&border_color=2A2A33" alt="protonvpn-proxy" /></a></td><td align="center" width="50%"><a href="https://github.com/x86txt/net-benchmark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x86txt&repo=net-benchmark&show_owner=false&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&icon_color=E60076&border_color=2A2A33" alt="net-benchmark" /></a></td></tr>
-<tr><td align="center" width="50%"><a href="https://github.com/x86txt/ClaudeBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x86txt&repo=ClaudeBar&show_owner=false&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&icon_color=E60076&border_color=2A2A33" alt="ClaudeBar" /></a></td><td align="center" width="50%"><a href="https://github.com/x86txt/controlhub-feedback"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x86txt&repo=controlhub-feedback&show_owner=false&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&icon_color=E60076&border_color=2A2A33" alt="controlhub-feedback" /></a></td></tr>
-<tr><td align="center" width="50%"><a href="https://github.com/x86txt/apple-containers-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x86txt&repo=apple-containers-extension&show_owner=false&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&icon_color=E60076&border_color=2A2A33" alt="apple-containers-extension" /></a></td><td align="center" width="50%"><a href="https://github.com/x86txt/oxcrypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x86txt&repo=oxcrypt&show_owner=false&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&icon_color=E60076&border_color=2A2A33" alt="oxcrypt" /></a></td></tr>
+<tr><td align="center" width="50%"><a href="https://github.com/srematt/protonvpn-proxy"><img src="./assets/cards/pin-protonvpn-proxy.svg" alt="protonvpn-proxy" /></a></td><td align="center" width="50%"><a href="https://github.com/srematt/net-benchmark"><img src="./assets/cards/pin-net-benchmark.svg" alt="net-benchmark" /></a></td></tr>
+<tr><td align="center" width="50%"><a href="https://github.com/srematt/ClaudeBar"><img src="./assets/cards/pin-ClaudeBar.svg" alt="ClaudeBar" /></a></td><td align="center" width="50%"><a href="https://github.com/srematt/controlhub-feedback"><img src="./assets/cards/pin-controlhub-feedback.svg" alt="controlhub-feedback" /></a></td></tr>
+<tr><td align="center" width="50%"><a href="https://github.com/srematt/apple-containers-extension"><img src="./assets/cards/pin-apple-containers-extension.svg" alt="apple-containers-extension" /></a></td><td align="center" width="50%"><a href="https://github.com/srematt/oxcrypt"><img src="./assets/cards/pin-oxcrypt.svg" alt="oxcrypt" /></a></td></tr>
 </table>
 
 <img src="./assets/stats.svg" alt="GitHub stats" width="100%" />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=x86txt&show_icons=true&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&icon_color=E60076&ring_color=C800DF&border_color=2A2A33" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x86txt&layout=compact&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33" alt="Top languages" />
+  <img height="165" src="./assets/cards/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./assets/cards/top-langs.svg" alt="Top languages" />
 </div>

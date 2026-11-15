@@ -1,0 +1,76 @@
+# Self-generates the stats/pin cards; the public github-readme-stats.vercel.app instance is paused (503).
+name: Update README cards
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=srematt&show_icons=true&icon_color=E60076&ring_color=C800DF&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33
+          path: assets/cards/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=srematt&layout=compact&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33
+          path: assets/cards/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pin protonvpn-proxy
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=srematt&repo=protonvpn-proxy&show_owner=false&icon_color=E60076&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33
+          path: assets/cards/pin-protonvpn-proxy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pin net-benchmark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=srematt&repo=net-benchmark&show_owner=false&icon_color=E60076&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33
+          path: assets/cards/pin-net-benchmark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pin ClaudeBar
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=srematt&repo=ClaudeBar&show_owner=false&icon_color=E60076&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33
+          path: assets/cards/pin-ClaudeBar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pin controlhub-feedback
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=srematt&repo=controlhub-feedback&show_owner=false&icon_color=E60076&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33
+          path: assets/cards/pin-controlhub-feedback.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pin apple-containers-extension
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=srematt&repo=apple-containers-extension&show_owner=false&icon_color=E60076&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33
+          path: assets/cards/pin-apple-containers-extension.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pin oxcrypt
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=srematt&repo=oxcrypt&show_owner=false&icon_color=E60076&bg_color=0C0C0F&title_color=C800DF&text_color=F3F4F6&border_color=2A2A33
+          path: assets/cards/pin-oxcrypt.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/cards/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
