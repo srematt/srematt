@@ -1,1 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="404" viewBox="0 0 900 404" font-family="&#x27;MesloLGS Nerd Font Mono&#x27;,&#x27;JetBrainsMono NF&#x27;,&#x27;JetBrainsMono Nerd Font Mono&#x27;,&#x27;JetBrainsMonoNL Nerd Font Mono&#x27;,&#x27;FiraCode Nerd Font Mono&#x27;,&#x27;FiraCode Nerd Font&#x27;,ui-monospace,&#x27;SF Mono&#x27;,Menlo,&#x27;Cascadia Mono&#x27;,Consolas,&#x27;DejaVu Sans Mono&#x27;,&#x27;Liberation Mono&#x27;,monospace"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#C800DF"/><stop offset="1" stop-color="#E60076"/></linearGradient></defs><rect x="1" y="1" width="898" height="402" rx="14" fill="#0C0C0F" stroke="#2A2A33" stroke-width="2"/><rect x="1" y="1" width="898" height="4" rx="2" fill="url(#g)"/><text x="28" y="40" font-size="15" font-weight="700" fill="#C800DF" text-anchor="start">$ </text><text x="46" y="40" font-size="15" font-weight="700" fill="#F3F4F6" text-anchor="start">cat about.md</text><text x="28" y="78" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">Principal Reliability Engineer and CISSP. A decade leading SRE and reliability</text><text x="28" y="100" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">teams through high-stakes incidents where lives and billions of dollars were on</text><text x="28" y="122" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">the line. Security isn&#x27;t a bolt-on for me; it&#x27;s how I build.</text><text x="28" y="166" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">Four years deep in AI and LLMs. I built Duke Energy&#x27;s in-house AI SRE Risk</text><text x="28" y="188" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">Platform, and I&#x27;ve taken companies from thousands of alerts a month to single</text><text x="28" y="210" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">digits. An early adopter of GitOps and FinOps, I believe there&#x27;s a 10x win hiding</text><text x="28" y="232" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">in nearly every system that isn&#x27;t yet using automation and AI.</text><text x="28" y="276" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">K.I.S.S., always. Mentorship means teaching people to fish, and the engineers</text><text x="28" y="298" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">I&#x27;ve mentored have gone further than they imagined.</text><text x="28" y="342" font-size="14" font-weight="400" fill="#F3F4F6" text-anchor="start">20+ years hands-on with AWS, GCP, Kubernetes and Terraform.</text><svg x="28" y="361" width="16" height="16" viewBox="0 0 24 24" style="color:#C800DF"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></g></svg><text x="52" y="374" font-size="13" font-weight="400" fill="#9CA3AF" text-anchor="start">Charlotte, NC · remote</text><svg x="253.6" y="361" width="16" height="16" viewBox="0 0 24 24" style="color:#C800DF"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 12h4m-4-4h4m0 13v-3a2 2 0 0 0-4 0v3"/><path d="M6 10H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2"/><path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16"/></g></svg><text x="277.6" y="374" font-size="13" font-weight="400" fill="#9CA3AF" text-anchor="start">secunit, llc</text><svg x="401.2" y="361" width="16" height="16" viewBox="0 0 24 24" style="color:#C800DF"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12l2 2l4-4"/></g></svg><text x="425.2" y="374" font-size="13" font-weight="400" fill="#9CA3AF" text-anchor="start">CISSP since 2017</text><svg x="580.0" y="361" width="16" height="16" viewBox="0 0 24 24" style="color:#C800DF"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20a14.5 14.5 0 0 0 0-20M2 12h20"/></g></svg><text x="604.0" y="374" font-size="13" font-weight="400" fill="#9CA3AF" text-anchor="start">secunit.io</text></svg>
+<!-- ===========================================================================
+🤖 GITHUB PROFILE ABOUT CARD (assets/about.svg)
+--------------------------------------------------------------------------------
+Description: Sanitizer-safe GitHub profile README card matched to #16161D/#C800DF
+Warning: ANY SENSITIVE DATA LIKE SECRETS KEYS OR TOKENS GO INTO API_KEYS.ZSH
+Created: 2026-11-19
+Platform: Cross-Platform
+Owner: Matthew Evans
+============================================================================ -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 435" width="880" height="435" role="img" aria-label="Rogue SecUnit - Principal SRE &amp; Infrastructure Architect">
+  <defs>
+    <linearGradient id="top-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9e00b3"/>
+      <stop offset="50%" stop-color="#C800DF"/>
+      <stop offset="100%" stop-color="#8a00c2"/>
+    </linearGradient>
+    <clipPath id="card-clip">
+      <rect x="0" y="0" width="880" height="435" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card-clip)">
+    <!-- Background Card (#16161D matched to profile badges) -->
+    <rect x="0" y="0" width="880" height="435" fill="#16161D"/>
+    <rect x="0.5" y="0.5" width="879" height="434" rx="12" ry="12" fill="none" stroke="#282834" stroke-width="1"/>
+
+    <!-- Top Magenta Accent Bar (#C800DF) -->
+    <rect x="0" y="0" width="880" height="4" fill="url(#top-accent)"/>
+
+    <!-- Header -->
+    <text x="34" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f4f4f6" letter-spacing="0.3">
+      Rogue SecUnit <tspan fill="#C800DF">//</tspan> Principal SRE &amp; Infrastructure Architect
+    </text>
+
+    <!-- Paragraph 1 -->
+    <text x="34" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4dc">
+      <tspan x="34" dy="0">Thirty-five years deep in packets, kernels, and production uptime (est. 1991). Following an early encounter with a</tspan>
+      <tspan x="34" dy="21">local university's dial-in modem bank<tspan dy="-4" font-size="10" font-weight="700" fill="#C800DF">1</tspan><tspan dy="4">, I was fortunate to learn at a very young age that security cannot be an</tspan></tspan>
+      <tspan x="34" dy="21">afterthought—it has to be an equal partner in every solution throughout its entire lifecycle. Relying on "security</tspan>
+      <tspan x="34" dy="21">through obscurity" is a gamble, and assuming you're too small a fish to be noticed in a big ocean is how you get compromised.</tspan>
+    </text>
+
+    <!-- Paragraph 2 -->
+    <text x="34" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#d4d4dc">
+      <tspan x="34" dy="0">Through <tspan font-weight="700" fill="#ffffff">secunit, llc</tspan>, I help enterprise teams eliminate single points of failure, automate zero-trust workflows, and</tspan>
+      <tspan x="34" dy="21">keep large-scale cloud and Linux infrastructure from catching fire. Off the clock, I live on the bleeding edge of</tspan>
+      <tspan x="34" dy="21">technology to stay sharp—what is bleeding edge today becomes commonplace tomorrow. That obsession has evolved into</tspan>
+      <tspan x="34" dy="21">writing tooling in <tspan font-weight="700" fill="#ffffff">Rust</tspan>, <tspan font-weight="700" fill="#ffffff">Go</tspan>, and <tspan font-weight="700" fill="#ffffff">TypeScript</tspan>, routing local LLMs on Apple Silicon, and running a global quad-WAN</tspan>
+      <tspan x="34" dy="21">homelab with a <tspan font-weight="700" fill="#ffffff">25GbE</tspan> <tspan font-style="italic">"on-home-prem"</tspan> core pushing <tspan font-weight="700" fill="#22c55e">7Gbps ▼</tspan> / <tspan font-weight="700" fill="#ef4444">6Gbps ▲</tspan> across fiber ⚡, cable 🔌, Starlink 🛰️, and 5G UWB 📡.</tspan>
+    </text>
+
+    <!-- Metadata Bar -->
+    <line x1="34" y1="296" x2="846" y2="296" stroke="#262632" stroke-width="1"/>
+
+    <!-- 1. Location Pin -->
+    <g transform="translate(34, 311)">
+      <path d="M8 1C4.96 1 2.5 3.46 2.5 6.5c0 4.12 5.5 9.5 5.5 9.5s5.5-5.38 5.5-9.5C13.5 3.46 11.04 1 8 1zm0 7.5a2 2 0 1 1 0-4 2 2 0 0 1 0 4z" fill="none" stroke="#C800DF" stroke-width="1.4"/>
+      <text x="22" y="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#e4e4ec">CLT</text>
+    </g>
+
+    <!-- 2. Company Building -->
+    <g transform="translate(220, 311)">
+      <path d="M2 15h12M3 15V3a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v12M10 7h2a1 1 0 0 1 1 1v7M5.5 5h1.5M5.5 8h1.5M5.5 11h1.5" fill="none" stroke="#C800DF" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="22" y="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#e4e4ec">secunit, llc</text>
+    </g>
+
+    <!-- 3. CISSP Shield -->
+    <g transform="translate(430, 311)">
+      <path d="M8 1.5L2.5 4v4.2c0 3.7 2.35 7.1 5.5 8.3 3.15-1.2 5.5-4.6 5.5-8.3V4L8 1.5zm-2.2 6.8l1.6 1.6 3-3.2" fill="none" stroke="#C800DF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="22" y="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#e4e4ec">ISC2 CISSP</text>
+    </g>
+
+    <!-- 4. Website Globe -->
+    <g transform="translate(640, 311)">
+      <circle cx="8" cy="8.5" r="6.5" fill="none" stroke="#C800DF" stroke-width="1.4"/>
+      <ellipse cx="8" cy="8.5" rx="3" ry="6.5" fill="none" stroke="#C800DF" stroke-width="1.3"/>
+      <line x1="1.5" y1="8.5" x2="14.5" y2="8.5" stroke="#C800DF" stroke-width="1.3"/>
+      <text x="22" y="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#e4e4ec">secunit.io</text>
+    </g>
+
+    <!-- Footnote Divider -->
+    <line x1="34" y1="344" x2="846" y2="344" stroke="#262632" stroke-width="1"/>
+
+    <!-- Footnote 1 -->
+    <text x="34" y="366" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.2" font-style="italic" fill="#9ca3af">
+      <tspan x="34" dy="0"><tspan font-style="normal" font-weight="700" fill="#C800DF">1</tspan> As a curious ten-year-old in the nostalgic days of BBSes, an overnight war-dialing session discovered a local university's dial-in</tspan>
+      <tspan x="34" dy="16">bank. The owner of the network relied on security-through-obscurity as their sole defensive measure, which JtR tore through in about</tspan>
+      <tspan x="34" dy="16">15 minutes. The owner had renamed a guest account but left it passwordless, which I was able to leverage into a privilege escalation</tspan>
+      <tspan x="34" dy="16">attack with a little help from a password file, John the Ripper, and the laziness of the network owner, who chose a root password of <tspan font-family="ui-monospace, monospace" font-style="normal" fill="#d4d4dc">frisbee</tspan>.</tspan>
+    </text>
+  </g>
+</svg>
