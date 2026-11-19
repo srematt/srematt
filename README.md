@@ -2,13 +2,13 @@
   <img src="./assets/left-aligned-banner.png" alt="Matthew Evans — Principal Engineer, SRE, DevOps" width="100%" />
   <br /><br />
   <a href="https://github.com/srematt"><img src="https://img.shields.io/badge/GitHub-16161D?style=for-the-badge&logo=github&logoColor=C800DF" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/sregeek"><img src="https://img.shields.io/badge/LinkedIn-16161D?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/sregeek"><img src="https://img.shields.io/badge/LinkedIn-16161D?style=for-the-badge&logo=linkedin&logoColor=C800DF" alt="LinkedIn" /></a>
   <a href="https://secunit.io"><img src="https://img.shields.io/badge/secunit.io-16161D?style=for-the-badge&logo=googlechrome&logoColor=C800DF" alt="secunit.io" /></a>
 </div>
 
 <br />
 
-<img src="./assets/about.svg" alt="About: Principal Reliability Engineer and CISSP with a decade leading SRE teams through high-stakes incidents. Four years in AI and LLMs, including Duke Energy\'s in-house AI SRE Risk Platform; took companies from thousands of alerts a month to single digits. Early GitOps and FinOps adopter. K.I.S.S. and teach-to-fish mentorship. 20+ years on AWS, GCP, Kubernetes and Terraform." width="100%" />
+<img src="./assets/about.svg" alt="Rogue SecUnit // Principal SRE &amp; Infrastructure Architect — Thirty-five years deep in packets, kernels, and production uptime (est. 1991). Security as an equal partner from day one. Principal consultant at secunit, llc; building in Rust, Go, and TypeScript, routing local LLMs on Apple Silicon, and running a 25GbE on-home-prem quad-WAN homelab (7Gbps down / 6Gbps up across fiber, cable, Starlink satellite, and 5G UWB)." width="100%" />
 
 <img src="./assets/stack.svg" alt="Stack: AWS, Google Cloud, Kubernetes, Docker, Cloudflare, Linux, Terraform, Helm, Argo CD, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, Datadog, Opsgenie, Go, Python, Bash, TypeScript, JavaScript, React, Node.js, PostgreSQL, MongoDB, Snyk, Zero Trust, SOC2/SOX/FINRA, SAST/DAST, Claude Code, Antigravity, LLM agents and token optimization." width="100%" />
 
